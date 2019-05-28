@@ -7,3 +7,5 @@ First usable version of Fire Game
   2. Run "Project.exe" and config setting to best fit your computer
   
   3. Enjoy the game
+
+Source code at: https://github.com/GiveMeSomething/FireGame
